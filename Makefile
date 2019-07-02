@@ -30,6 +30,7 @@ _extensions/odoo/static/style.css: $(lessfiles)
 # Displays list of commands
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
+	@echo "  clean      to delete the build"
 	@echo "  html       to make standalone HTML files"
 	@echo "  i18nhtml   to make standalone translated HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
