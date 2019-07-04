@@ -31,9 +31,10 @@ Contact Form info and where to change the *Sales Channel* or
 Create a custom contact form
 ============================
 
-If you want a form that asks for more information from a visitor,
+If you want to ask for more information from a visitor,
 you will need to build a custom contact form on your
 website. These contact forms can generate multiple types of records in
+
 the system (emails, leads/opportunities, project tasks, helpdesk
 tickets, etc.)
 
@@ -61,7 +62,9 @@ lead/opportunity generation in *Change Form Parameters*.
 
 .. note::
    If the same visitor uses the contact form twice, the information from the second
-   entry will be added to the first lead/opportunity in the chatter.
+   submission will be added to the first lead/opportunity in the chatter.
+
+
 
 Generate leads instead of opportunities
 =======================================
